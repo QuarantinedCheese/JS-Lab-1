@@ -20,6 +20,15 @@ console.log(truefalse)
 var coolarray = ["Apple", "Biking", "Falled down :("]
 console.log(coolarray)
 
+let CoolThing = {
+    firstName: "Video",
+    middleName: "Brick Rigs",
+    lastName: "Games",
+    age: 8,
+    playerbase: "Childish"
+}
+
+
 // Q3 Basic Operators
 console.log(4+4)
 console.log(4-4)
@@ -34,4 +43,5 @@ console.log(9 != "Hello!")
 console.log((3==3) && ("France" != "Cool"))
 console.log(!(3==3))
 console.log(("Hello" == "Goodbye") || studentAge == 16)
+
 
